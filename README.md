@@ -17,3 +17,9 @@ https://github.com/SpencerPark/IJava
 ```
 jupyter-lab
 ```
+
+### Apache Spark
+https://spark.apache.org/docs/latest/quick-start.html
+
+### Apache Beam
+https://beam.apache.org/get-started/quickstart-java/
